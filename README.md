@@ -223,7 +223,7 @@ public class Main {
 
 Este proyecto está bajo la licencia MIT.
 
-¡Gracias por utilizar el Conversor de Moneda WRH3! Espero que te sea útil y que tengas una excelente experiencia convirtiendo monedas. ¡Feliz conversión! 🚀✨
+¡Gracias por utilizar el Conversor de Moneda! Espero que te sea útil y que tengas una excelente experiencia convirtiendo monedas. ¡Feliz conversión! 🚀✨
 
 ## Autores
 
